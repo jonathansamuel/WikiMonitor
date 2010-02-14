@@ -1,1 +1,1 @@
-WikiBarfer is a set of Python tools for using Wikipedia. It requires the Twisted web framework but not twisted.web2, which it does not and will not use. It is developed using Python 2.5
+WikiMonitor is a set of Python tools for using Wikipedia. It requires the Twisted web framework but not twisted.web2, which it does not and will not use. It is developed using Python 2.5
